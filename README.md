@@ -1,2 +1,3 @@
 # GitDemo
-This is git demo Author Vinay Gowda
+This is git demo <br>
+Author Vinay Gowda
